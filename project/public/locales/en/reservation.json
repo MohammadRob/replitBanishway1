@@ -1,0 +1,29 @@
+{
+  "tripTypes": {
+    "oneWayReturning": "",
+    "roundTrip": "",
+    "oneWayGoing": ""
+  },
+  "noReservations": "",
+  "destinations": {
+    "gharb": "",
+    "sharq": "",
+    "demo": ""
+  },
+  "paymentStatus": "",
+  "price": "",
+  "paymentStatuses": {
+    "unpaid": "",
+    "paid": ""
+  },
+  "tripType": "",
+  "attended": "",
+  "destination": "",
+  "success": "",
+  "attend": "",
+  "passenger": "",
+  "new": "",
+  "date": "",
+  "notAttended": "",
+  "driver": ""
+}

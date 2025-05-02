@@ -1,0 +1,16 @@
+{
+  "addUser": "",
+  "editUser": "",
+  "deleteUser": "",
+  "reports": {
+    "generate": "",
+    "export": "",
+    "print": "",
+    "weekly": ""
+  },
+  "confirmDeleteUser": "",
+  "activeDrivers": "",
+  "revenue": "",
+  "totalReservations": "",
+  "overview": ""
+}

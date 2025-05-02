@@ -1,0 +1,71 @@
+{
+  {
+  "hideFilters": "",
+  "search": "",
+  "showing": "",
+  "dateFrom": "",
+  "actions": "",
+  "clearFilters": "",
+  "logout": "",
+  "viewAll": "",
+  "delete": "",
+  "loading": "",
+  "of": "",
+  "save": "",
+  "showFilters": "",
+  "tagline": "",
+  "arabic": "",
+  "backToHome": "",
+  "dateTo": "",
+  "english": "",
+  "appName": "",
+  "all": "",
+  "cancel": ""
+}
+
+  "home": {
+    "ourServices": "Our Services",
+    "easyReservations": {
+      "title": "Easy Reservations",
+      "desc": "Book your trip from Ibshaway to Banisuef and back with just a few taps. Choose your destination and type of trip."
+    },
+    "multipleDestinations": {
+      "title": "Multiple Destinations",
+      "desc": "Choose from multiple drop-off points in Banisuef: Sharq, Gharb, and Demo to get exactly where you need to go."
+    },
+    "secureReliable": {
+      "title": "Secure and Reliable",
+      "desc": "Travel with peace of mind. Our drivers are professional and vetted, ensuring your journey is safe and comfortable."
+    },
+    "howItWorks": "How It Works",
+    "step1": {
+      "title": "Register an Account",
+      "desc": "Create a passenger account with your name and phone number to get started."
+    },
+    "step2": {
+      "title": "Book Your Trip",
+      "desc": "Select your destination, trip type (one-way or round-trip), and preferred date."
+    },
+    "step3": {
+      "title": "Check In & Travel",
+      "desc": "Your driver will mark your attendance, and you can pay on the bus or in advance."
+    },
+    "getStarted": "Get Started Now"
+  },
+  "home.ourServices": "Our Services",
+  "home.easyReservations.title": "Easy Reservations",
+  "home.easyReservations.desc": "Book your trip from Ibshaway to Banisuef and back with just a few taps. Choose your destination and type of trip.",
+  "home.multipleDestinations.title": "Multiple Destinations",
+  "home.multipleDestinations.desc": "Choose from multiple drop-off points in Banisuef: Sharq, Gharb, and Demo to get exactly where you need to go.",
+  "home.secureReliable.title": "Secure and Reliable",
+  "home.secureReliable.desc": "Travel with peace of mind. Our drivers are professional and vetted, ensuring your journey is safe and comfortable.",
+  "home.howItWorks": "How It Works",
+  "home.step1.title": "Register an Account",
+  "home.step1.desc": "Create a passenger account with your name and phone number to get started.",
+  "home.step2.title": "Book Your Trip",
+  "home.step2.desc": "Select your destination, trip type (one-way or round-trip), and preferred date.",
+  "home.step3.title": "Check In & Travel",
+  "home.step3.desc": "Your driver will mark your attendance, and you can pay on the bus or in advance.",
+  "home.getStarted": "Get Started Now"
+},
+
